@@ -1,0 +1,5 @@
+﻿operación,nombre,apellidos,estado,email
+Alta,Prueba,1,nuevo,prueba1@email.com
+Baja,Prueba,2,nuevo,prueba2@example.com
+Cambio,Prueba,3,nuevo,prueba3@example.com
+Eliminar,Prueba,4,nuevo,prueba4@example.com
